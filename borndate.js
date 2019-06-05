@@ -1,0 +1,8 @@
+//var myborndate = new Date("1993-03-26")
+//alert (myborndate.getDate())
+//alert(myborndate.getDay())
+//alert(myborndate.getTime())
+//alert(myborndate.getFullyear())
+//var today = new Date(Date.now())
+var yesterday=new Date("2019-05-21")
+alert(yesterday)
